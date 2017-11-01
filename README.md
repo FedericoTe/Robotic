@@ -8,10 +8,33 @@ Para ello vamos a dar los siguientes pasos:
 2. [Movimiento del robot] [2]
 3. [Sensores del robot]  [3]
 4. [Cerebro del motor y alimentación] [4]
-5. [Chasis: fabricación] [5]
+5. [Chasis: diseño] [5]
 6. [Lista de Materiales y montaje] [6]
 7. [Programación] [7]
 8. [Nuestro robot] [8]
+
+
+Como comenzamos este documento para que nos sirva a modo de diseño y planificación del proyecto, vamos a ir completando esta:
+
+
+## Lista de Tareas
+
+
+- [] Definir el estilo del robot
+- [] Selecionar motores que usará y el driver para controlarlo.
+- [] Seleccionar tipo de sensores que usará el robot para conocer el mundo externo.
+- [] Elegir el cerebro del motor y cómo se alimentará
+- [] Tener un listado con los materiales necesarios, aquellos que debemos comprar y aquellos que ya tenemos.
+- [] Haber comprado todos los materiales que necesitamos
+- [] Fabricar el chasis
+- [] Conexión de la electrónica
+- [] Programación de los motores
+- [] Programación de los sensores
+- [] Prueba final del robot
+- [] Completar el archivo Markdown
+
+
+
 
 
 ***
@@ -94,13 +117,13 @@ También debemos comprar una batería para que nuestro robot tenga una cierta au
 
 
 [5]
-## 5. Chasis: fabricación
+## 5. Chasis: diseño
 
 
 Elegir qué tipo de chasis vamos a fabricar: impresora 3D, DM, contrachapado, carton pluma,... Cómo poner los motores y las ruedas, como poner la batería del motor para que se pueda recargar fácilmente,...
 
 
-Fotos de la construcción.
+
 
 
 ***
@@ -116,7 +139,9 @@ Fotos de la construcción.
 Empezamos recopilando todos los materiales con el coste y dónde lo compramos.
 
 
-Luego seguimos con los pasos para montar, primero, la base con  las ruedas. Obviamente, necesitamos también conectores para unir los elementos y la electrónica, si hemos decidido utilizar una placa de prototipo, ....
+Luego seguimos con los pasos para montar, primero el chasis con la base con  las ruedas. Obviamente, necesitamos también conectores para unir los elementos y la electrónica, si hemos decidido utilizar una placa de prototipo, ....
+
+
 
 
 ***
